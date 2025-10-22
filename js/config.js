@@ -48,11 +48,6 @@ const API_SITES = {
         name: '非凡影视',
         detail: 'http://ffzy5.tv', 
     },
-    heimuer: {
-        api: 'https://json.heimuer.xyz/api.php/provide/vod',
-        name: '黑木耳',
-        detail: 'https://heimuer.tv', 
-    },
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
@@ -113,11 +108,6 @@ const API_SITES = {
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
-    },
-    testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
-        adult: true
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
